@@ -1,6 +1,6 @@
 ﻿qubit,exact_con_rate,approx_similarity_rate,HMC_similarity_rate,exact_space,approx_space,HMC_space,DD_space
 3,1,0.333333333,1,8,8,8,8
-4,1.333333333,1,1,16,16,16,16
+4,1,1,1,16,16,16,16
 5,1,1,1,32,32,32,32
 6,1,1,1,64,64,63,64
 7,1,0,1,128,117,112,128
